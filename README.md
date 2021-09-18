@@ -5,7 +5,7 @@
 - 📫 Mail me at nobel10122025@gmail.com
 
 # Projects
-Build with 
+**Built with** 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
