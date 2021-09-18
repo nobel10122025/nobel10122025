@@ -5,6 +5,13 @@
 - 📫 Mail me at nobel10122025@gmail.com
 
 # Projects
+Build with 
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Vanilla Javascrip
 
 ## Landing pages
  1. [fylo-dark-theme-landing-page](https://nobel10122025.github.io/fylo-dark-theme-landing-page/index.html)
