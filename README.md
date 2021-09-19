@@ -11,7 +11,7 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Vanilla Javascrip
+- Vanilla Javascript
 
 ## Landing pages
  1. [fylo-dark-theme-landing-page](https://nobel10122025.github.io/fylo-dark-theme-landing-page/index.html)
