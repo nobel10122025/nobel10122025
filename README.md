@@ -23,6 +23,7 @@
  1. [Memory Game]( https://nobel10122025.github.io/Memory_Game/index.html)
  2. [tip-calculator-app](https://nobel10122025.github.io/tip-calculator-app/index.html)
  3. [Random-Quote-Generator](https://nobel10122025.github.io/RandomQuoteGenerator/index.html)
+ 4. [Stats-preview-card-component](https://nobel10122025.github.io/stats-preview-card-component/index.html)
 
 ## React Project
   1. [To-do-list](https://relaxed-goldwasser-ff8954.netlify.app/)
