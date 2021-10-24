@@ -16,7 +16,7 @@
 - Jquery 
 
 ## Landing pages
- 1. [Bookmark-landing-page](https://github.com/nobel10122025/bookmark-landing-page/index.html)
+ 1. [Bookmark-landing-page](https://nobel10122025.github.io/bookmark-landing-page/index.html)
  2. [fylo-dark-theme-landing-page](https://nobel10122025.github.io/fylo-dark-theme-landing-page/index.html)
  3. [crowdfunding_product_page](https://nobel10122025.github.io/crowdfunding_product_page/index.html)
  4. [blogr-landing-page](https://nobel10122025.github.io/blogr-landing-page/index.html)
