@@ -30,6 +30,7 @@
  5. [Javascript Calculator](https://nobel10122025.github.io/javascript_calculator/index.html)
  6. [CheckList-app](https://nobel10122025.github.io/Checklist_app/index.html)
  7. [Javascript-drum](https://nobel10122025.github.io/javascript_drum/index.html)
+ 8. [Javascript-clock](https://nobel10122025.github.io/javascript_clock/index.html)
 
 ## React Project
   1. [To-do-list](https://relaxed-goldwasser-ff8954.netlify.app/)
