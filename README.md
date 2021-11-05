@@ -34,6 +34,7 @@
 
 ## React Project
   1. [To-do-list](https://relaxed-goldwasser-ff8954.netlify.app/)
+  2. [Photo_Editor](https://github.com/nobel10122025/Photo_Editor_React_JS)
   
 ### Other projects
  1. Theory of Computation website for checking regular expression and CFG
