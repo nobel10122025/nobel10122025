@@ -16,6 +16,9 @@
 - Redux
 - Sass
 - Material_UI
+- ContextAPI
+- D3 and Svg
+- tensorflowJS
 
 ## Landing pages :fire:
  1. [Bookmark-landing-page](https://nobel10122025.github.io/bookmark-landing-page/index.html)
@@ -28,11 +31,12 @@
  1. [Crown-clothing-Ecommerce-website](https://github.com/nobel10122025/crown_clothing_e-commerce_site)
  2. [Portfolio-website](https://github.com/nobel10122025/Portfolio_Website)
  3. [Countries-website-REST-api](https://github.com/nobel10122025/Countries_website_REST_countries_api)
- 4. [Weather-App](https://github.com/nobel10122025/React-weather-app)
- 5. [Photo-Editor](https://github.com/nobel10122025/Photo_Editor_React_JS)
- 6. [To-do-list](https://github.com/nobel10122025/Todo_list_with_React)
+ 4. [Graph with D3](https://github.com/nobel10122025/Graphs_with_D3)
+ 5. [Pest Classification with DL](https://github.com/nobel10122025/Pest__Classification_with_React_TFJS)
+ 6. [Weather-App](https://github.com/nobel10122025/React-weather-app)
+ 7. [Photo-Editor](https://github.com/nobel10122025/Photo_Editor_React_JS)
+ 8. [To-do-list](https://github.com/nobel10122025/Todo_list_with_React)
  
-
 ## Javascript based projects :star:
  1. [Memory Game]( https://nobel10122025.github.io/Memory_Game/index.html)
  2. [tip-calculator-app](https://nobel10122025.github.io/tip-calculator-app/index.html)
@@ -42,8 +46,6 @@
  6. [CheckList-app](https://nobel10122025.github.io/Checklist_app/index.html)
  7. [Javascript-drum](https://nobel10122025.github.io/javascript_drum/index.html)
  8. [Javascript-clock](https://nobel10122025.github.io/javascript_clock/index.html)
-
-
   
 ### Other projects
  1. Theory of Computation website for checking regular expression and CFG
