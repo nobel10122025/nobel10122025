@@ -51,3 +51,7 @@
  1. Theory of Computation website for checking regular expression and CFG
  2. Heart Attack prediction with ML model.
  3. Product-service-site with signin , signup and feedback form.
+ 
+ 
+![](https://komarev.com/ghpvc/?username=nobel10122025&color=yellow)
+
